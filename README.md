@@ -1,4 +1,7 @@
-### Hi there <a href="https://alwisofwan.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### <a href="https://alwisofwan.vercel.app/">
+![github-header-image](https://user-images.githubusercontent.com/63799404/170880871-bf15203f-9eb8-4db8-aac5-e24b153c3da9.png)
+</a>
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
