@@ -1,6 +1,8 @@
 ### <a href="https://alwisofwan.vercel.app/">
 ![github-header-image](https://user-images.githubusercontent.com/63799404/170880871-bf15203f-9eb8-4db8-aac5-e24b153c3da9.png)
 </a>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alwisofwan1&label=Profile%20views&color=0e75b6&style=flat" alt="alwisofwan1" /> </p> -->
 
 This is the place where I opensource stuff and break things :rofl:
 
